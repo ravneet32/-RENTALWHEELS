@@ -1,0 +1,51 @@
+<div class="container-fluid mt-3 p-1 bg-dark">
+      <div class="row">
+        <h1 class="text-center fs-1 fw-bolder">Subscribe a  car @ 1000 Per Day</h1>
+      </div>
+      <div class="row d-flex justify-content-center mt-5" style="gap: 12vw;">
+        <div class="card" style="width: 18rem;">
+          <img src="scorpioN.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Scorpio N - ₹ 4000/day:SUV seven seater car Nimble city navigator with impressive fuel efficiency and surprising interior space.</p>
+            <button type="button" class="btn btn-primary">Rent</button>
+          </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+          <img src="ENDIVOUR.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Ford Endeavour - ₹ 5000/day: The perfect blend of comfort, reliability, and safety for families and professionals alike.</p>
+            <button type="button" class="btn btn-primary">Rent</button>
+
+          </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+          <img src="scorpio.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Scorpio Classic - ₹ 4000/day: Experience opulence on wheels with premium features and commanding road presence.</p>
+            <button type="button" class="btn btn-primary">Rent</button>
+          </div>
+        </div>
+      </div>
+      <div class="row d-flex justify-content-center mt-5" style="gap: 12vw;">
+        <div class="card" style="width: 18rem;">
+          <img src="swift.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Swift - ₹ 2000/day: the fourth generation swift new design rich in comfort 30 kmpl mileage .</p>
+            <button type="button" class="btn btn-primary">Rent</button>
+          </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+          <img src="thar.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Thar -₹ 3000/day: four siter fully suv comfortable excellence in offroading .</p>
+            <button type="button" class="btn btn-primary">Rent</button>
+          </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+          <img src="grandvitara.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">grand vitara - ₹ 3000/day: Spacious family-mover packed with convenience features for the ultimate group adventure.</p>
+            <button type="button" class="btn btn-primary">Rent</button>
+          </div>
+        </div>
+      </div>
