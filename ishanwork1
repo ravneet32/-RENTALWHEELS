@@ -1,0 +1,103 @@
+<div class="container-fluid bg-light p-5">
+  <h2 class="fs-1 fw-bolder text-muted mb-5">Happy Customers</h2>
+  <div class="row d-flex justify-content-evenly">
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">Sanjeev Rawat</h5>
+   
+        <p class="card-text">Nimble city navigator with impressive fuel efficiency and surprising interior space.
+          "Perfect for city driving! Saved so much on gas and parking was a breeze." - Alex S.</p>
+      
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">Akshay</h5>
+      
+        <p class="card-text">The perfect blend of comfort, reliability, and safety for families and professionals alike.
+          "Smooth ride and plenty of room for our family of four. Felt very safe on our road trip." </p>
+    
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">Mankirat</h5>
+       
+        <p class="card-text">Experience opulence on wheels with premium features and commanding road presence.
+          "Worth every penny! The leather seats and advanced tech made our vacation extra special."</p>
+     
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-title">Manish</h5>
+        
+        <p class="card-text">Unleash your inner thrill-seeker with top-down exhilaration and striking style.
+          "Rented for my anniversary - my wife was thrilled! Incredible driving experience." </p>
+    
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+    <div class="container-fluid bg-dark mt-5 p-5">
+      <h2 class="fs-3 text-light mb-5 text-center">Servicable cities</h2>
+      <div class="row mt-5">
+        <div class="col-4">
+          <ul>
+            <li class="text-light text-decoration-none">Car Rental in Bangalore</li>
+            <li class="text-light text-decoration-none">Car Rental in Hyderabad</li>
+            <li class="text-light text-decoration-none">Car Rental in Mangalore</li>
+            <li class="text-light text-decoration-none">Car Rental in Kolkata</li>
+            <li class="text-light text-decoration-none">Car Rental in Ahmedabad</li>
+          </ul>
+        </div>
+        <div class="col-4">   <ul>
+          <li class="text-light text-decoration-none">Car Rental in Bangalore</li>
+          <li class="text-light text-decoration-none">Car Rental in Hyderabad</li>
+          <li class="text-light text-decoration-none">Car Rental in Mangalore</li>
+          <li class="text-light text-decoration-none">Car Rental in Kolkata</li>
+          <li class="text-light text-decoration-none">Car Rental in Ahmedabad</li>
+        </ul></div>
+        <div class="col-4">
+          <ul>
+            <li class="text-light text-decoration-none">Car Rental in Bangalore</li>
+            <li class="text-light text-decoration-none">Car Rental in Hyderabad</li>
+            <li class="text-light text-decoration-none">Car Rental in Mangalore</li>
+            <li class="text-light text-decoration-none">Car Rental in Kolkata</li>
+            <li class="text-light text-decoration-none">Car Rental in Ahmedabad</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid mt-5">
+      <footer class="bg-dark text-light p-3">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+                <div class="col-md-4 text-center text-md-start mb-2 mb-md-0">
+                    <p class="mb-0">&copy; 2024 Car Rental. All rights reserved.</p>
+                </div>
+                <div class="col-md-4 text-center mb-2 mb-md-0">
+                    <a href="#" class="text-light me-2">Privacy</a>
+                    <a href="#" class="text-light me-2">Terms</a>
+                    <a href="#" class="text-light">Contact</a>
+                </div>
+                <div class="col-md-4 text-center text-md-end">
+                    <a href="#" class="text-light me-2"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="text-light me-2"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="text-light me-2"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="text-light"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
+</html>
